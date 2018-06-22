@@ -1,0 +1,6 @@
+1. 2차원 좌표 (x, y)값을 저장하는 MyPoint 클래스를 만든다.
+   - compareTo() 구현할 것.
+   - 생성자도 구현
+2. MyPoint 객체의 배열을 만든다. (원소의 수는 100개, x,y 값은 무작위 생성)
+   - 무작위 생성: Random 클래스 이용
+3. Selection.sort()와 Insertion.sort() 를 이용하여 정렬하고, 그 결과를 출력하라.
